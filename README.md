@@ -32,7 +32,7 @@ Google anomena *Live view in Google Maps* a la combinació de Google Maps amb la
 
 El resultat final a nivell de front-end és la projecció simultània a temps real de la superposició del mapa bidimensional amb les imatges reals de l’entorn per on es desplaça l’usuari i les indicacions de la ruta mitjançant text i infografia 3D ajustant-se a la perspectiva de la càmera i la direcció de la ruta. Per a que això sigui possible, a nivell de back-end és necessari combinar altres tecnologies de Google, com [Visual Positioning Service](https://youtu.be/ogfYd705cRs?t=5128) (VPS), [Street View](https://www.google.com/streetview/) i Machine Learning, que s’encarreguen de processar la informació enviada pel dispositiu (GPS, brúixola i imatges), i obtenir el que Google anomena *global localization.*
 
-![enter image description here](https://photos.app.goo.gl/GVAi862AsHwap9um6)
+![enter image description here](https://photos.app.goo.gl/FUdUzzw7rRt4mAfG9)
 
 Des del punt de vista que Manovich exposa a *“Software Takes Command”* (2013), estaríem davant d’una experiència nova d’hibridació que ja parteix d’una hibridació de mitjans, com és el cas de Google Maps, a la qual s’hi afegeixen les tecnologies Visual Positioning Service (VPS), Street View, Machine Learning i la capacitat de processament en el núvol per generar la informació necessària que permet construir un nou format de mitjà i noves tècniques d’interacció fruit de combinar Google Maps i la realitat augmentada (AR).
 
