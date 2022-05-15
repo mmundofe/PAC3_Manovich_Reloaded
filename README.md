@@ -28,7 +28,7 @@ Google Maps és, en la seva essència, un servei de cartografia digital, el que 
 
 La realitat augmentada (AR) és el terme emprat per referir-se a la superposició d’informació i contingut digital en el món físic a temps real, com si ambdues coses estiguessin juntes en el mateix espai, de manera que amb aquest nou mitjà informàtic, es combina qualsevol mitjà digital amb el món físic real projectat en una pantalla a través d’una càmera. Per exemple, mentre apuntem amb una càmera a qualsevol lloc de l’espai físic que ens envolta, es poden superposar fotografies, vídeos, imatges generades en 3D, animacions, textes, etc… creant una realitat mixta a temps real sobre la pantalla en la qual s'estigui observant.
 
-Google anomena Live view in Google Maps a la combinació de Google Maps amb la realitat augmentada, un servei que es va començar a provar l’any 2019 (Google AI Blog, 2019). La idea sorgeix com a solució a una doble problemàtica. Per una banda busca solucionar un problema tècnic relacionat amb la precisió del posicionament en entorns urbans amb una alta densitat d’edificis i, per una altra banda, busca solucionar un problema d’experiència d’usuari davant d’instruccions del tipus *“Ves en direcció sud-est per Carrer Torrent de l’Olla cap a Carrer Montseny”.*
+Google anomena *Live view in Google Maps* a la combinació de Google Maps amb la realitat augmentada, un servei que es va començar a provar l’any 2019 (Google AI Blog, 2019). La idea sorgeix com a solució a una doble problemàtica. Per una banda busca solucionar un problema tècnic relacionat amb la precisió del posicionament en entorns urbans amb una alta densitat d’edificis i, per una altra banda, busca solucionar un problema d’experiència d’usuari davant d’instruccions del tipus *“Ves en direcció sud-est per Carrer Torrent de l’Olla cap a Carrer Montseny”.*
 
 El resultat final a nivell de front-end és la projecció simultània a temps real de la superposició del mapa bidimensional amb les imatges reals de l’entorn per on es desplaça l’usuari i les indicacions de la ruta mitjançant text i infografia 3D ajustant-se a la perspectiva de la càmera i la direcció de la ruta. Per a que això sigui possible, a nivell de back-end és necessari combinar altres tecnologies de Google, com [Visual Positioning Service](https://youtu.be/ogfYd705cRs?t=5128) (VPS), [Street View](https://www.google.com/streetview/) i Machine Learning, que s’encarreguen de processar la informació enviada pel dispositiu (GPS, brúixola i imatges), i obtenir el que Google anomena *global localization.*
 
@@ -39,6 +39,21 @@ Des del punt de vista que Manovich exposa a *“Software Takes Command”* (2013
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Referències i Bibliografia
+
+* VV.AA. ***Realitat augmentada*** [en línia]. Viquipèdia, 8 de març de 2022. [data de consulta: maig 2022]. Disponible a:
+[https://ca.wikipedia.org/wiki/Realitat_augmentada](https://ca.wikipedia.org/wiki/Realitat_augmentada)
+
+* VV.AA. ***Google Maps*** [en línia]. Viquipèdia, 25 d’agost de 2021. [data de consulta: maig 2022]. Disponible a:
+[https://ca.wikipedia.org/wiki/Google_Maps](https://ca.wikipedia.org/wiki/Google_Maps)
+
+* ***Augmented Reality*** [en línia]. Google AR & VR. [data de consulta: maig 2022]. Disponible a:
+[https://arvr.google.com/ar/](https://arvr.google.com/ar/)
+
+* Tilman Reinhardt‎. ***Using Global Localization to Improve Navigation*** [en línia]. Google AI Blog, 11 de febrer de 2019. [data de consulta: maig 2022]. Disponible a:
+[https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html?m=1](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html?m=1)
+
+* Raúl Álvarez. ***La nueva interfaz de Google Maps con realidad aumentada que va a cambiar la aplicación radicalmente*** [en línia]. Xataka, 12 de febrer de 2019. [data de consulta: maig 2022]. Disponible a:
+[https://www.xataka.com/aplicaciones/asi-como-navegacion-realidad-aumentada-hace-que-google-maps-sea-util](https://www.xataka.com/aplicaciones/asi-como-navegacion-realidad-aumentada-hace-que-google-maps-sea-util)
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
