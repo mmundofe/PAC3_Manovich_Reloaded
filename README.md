@@ -50,6 +50,8 @@ Cabify funciona de manera que quan un usuari necessita un servei de transport de
 
 El resultat final a nivell de front-end és que tant usuaris com conductors disposen d’una representació visual a l'ús d’un servei que fins aleshores, en el servei de Taxi, no existia.  Una representació que fusiona diferents mitjans, com cartografia digital, text, imatge, telefonia, GPS, etc… a través de la qual, els usuaris interactuen per visibilitzar el servei i tota la informació relacionada: disponibilitat, temps, preu, recorregut a temps real, etc…
 
+![Cabify Screenshots](https://github.com/mmundofe/PAC3_Manovich_Reloaded/blob/main/CabifyScreenshot.png)
+
 Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibridació de mitjans “futur” portat al terreny de les apps de serveis, en tant en quant l’app actua com a nou mitjà per representar un servei a l’ús, el de Taxi, “remediat” i de manera diferent oferint una experiència del servei completament nova. 
 
 ### Referències i Bibliografia
@@ -83,6 +85,9 @@ Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibri
 
 * ***¿Qué es Cabify?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
 [https://help.cabify.com/hc/es/articles/360021372159--Qu%C3%A9-es-Cabify-](https://help.cabify.com/hc/es/articles/360021372159--Qu%C3%A9-es-Cabify-)
+
+* Ferran Adell. ***Remediación, multimedia e hibridación de los medios*** [en línia]. UOC, 16 d'abril de 2014. [data de consulta: maig 2022]. Disponible a:
+[http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
