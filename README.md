@@ -67,19 +67,19 @@ Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibri
 * Raúl Álvarez. ***La nueva interfaz de Google Maps con realidad aumentada que va a cambiar la aplicación radicalmente*** [en línia]. Xataka, 12 de febrer de 2019. [data de consulta: maig 2022]. Disponible a:
 [https://www.xataka.com/aplicaciones/asi-como-navegacion-realidad-aumentada-hace-que-google-maps-sea-util](https://www.xataka.com/aplicaciones/asi-como-navegacion-realidad-aumentada-hace-que-google-maps-sea-util)
 
-VV.AA. ***Taxi*** [en línia]. Viquipèdia, 20 d’abril de 2022. [data de consulta: maig 2022]. Disponible a:
+* VV.AA. ***Taxi*** [en línia]. Viquipèdia, 20 d’abril de 2022. [data de consulta: maig 2022]. Disponible a:
 [https://ca.wikipedia.org/wiki/Taxi](https://ca.wikipedia.org/wiki/Taxi)
 
-VV.AA. ***Compañía de red de transporte*** [en línia]. Wikipedia, 10 de desembre de 2021. [data de consulta: maig 2022]. Disponible a:
+* VV.AA. ***Compañía de red de transporte*** [en línia]. Wikipedia, 10 de desembre de 2021. [data de consulta: maig 2022]. Disponible a:
 [https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_red_de_transporte](https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_red_de_transporte)
 
-VV.AA. ***Cabify*** [en línia]. Viquipèdia, 4 d’abril de 2022. [data de consulta: maig 2022]. Disponible a:
+* VV.AA. ***Cabify*** [en línia]. Viquipèdia, 4 d’abril de 2022. [data de consulta: maig 2022]. Disponible a:
 [https://ca.wikipedia.org/wiki/Cabify](https://ca.wikipedia.org/wiki/Cabify)
 
-***¿Cuál es la diferencia entre Cabify y un taxi?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
+* ***¿Cuál es la diferencia entre Cabify y un taxi?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
 [https://help.cabify.com/hc/es/articles/115001002585--Cu%C3%A1l-es-la-diferencia-entre-Cabify-y-un-taxi-](https://help.cabify.com/hc/es/articles/115001002585--Cu%C3%A1l-es-la-diferencia-entre-Cabify-y-un-taxi-)
 
-***¿Qué es Cabify?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
+* ***¿Qué es Cabify?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
 [https://help.cabify.com/hc/es/articles/360021372159--Qu%C3%A9-es-Cabify-](https://help.cabify.com/hc/es/articles/360021372159--Qu%C3%A9-es-Cabify-)
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
