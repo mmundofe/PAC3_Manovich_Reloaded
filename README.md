@@ -18,7 +18,7 @@ Així mateix, la hibridació **no és la simple convivència conjunta de diferen
 
 > *“different media forms and traditions, are brought together resulting in new media gestalts. That is, they merge together to offer a coherent new experience different from experiencing all the elements separately.”* (Manovich, *“Software Takes Command”,* 2013).
 
-Per tant, la hibridació ha de comportar una nova manera de representar el món o la forma en com s'interactua amb aquestes representacions, oferint noves tècniques de navegació i d’interacció, nous formats de mitjans o ambdues coses a la vegada (Manovich, 2013). Però a mesura en què el programari esdevé un servei entrellaçat a qualsevol àmbit de la societat, la hibridació sobrepassa les dimensions descrites per Manovich, possibilitant la gènesi de noves experiències en forma de serveis com mai abans podien experimentar-se.
+Per tant, la hibridació ha de comportar una nova manera de representar el món o la forma en com s'interactua amb aquestes representacions, oferint noves tècniques de navegació i d’interacció, nous formats de mitjans o ambdues coses a la vegada (Manovich, 2013). Però a mesura en què el **programari esdevé un servei entrellaçat** a qualsevol àmbit de la societat, la hibridació **sobrepassa les dimensions descrites per Manovich**, possibilitant la gènesi de noves experiències en forma de serveis com mai abans podien experimentar-se.
 
 ## Re-descobrint la hibridació 1: Live view in Google Maps
 
