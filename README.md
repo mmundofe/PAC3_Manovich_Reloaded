@@ -20,7 +20,7 @@ Així mateix, la hibridació **no és la simple convivència conjunta de diferen
 
 Per tant, la hibridació ha de comportar una nova manera de representar el món o la forma en com s'interactua amb aquestes representacions, oferint noves tècniques de navegació i d’interacció, nous formats de mitjans o ambdues coses a la vegada (Manovich, 2013). Però a mesura en què el **programari esdevé un servei entrellaçat** a qualsevol àmbit de la societat, la hibridació **sobrepassa les dimensions descrites per Manovich**, possibilitant la gènesi de noves experiències en forma de serveis com mai abans podien experimentar-se.
 
-## Re-descobrint la hibridació 1: Live view in Google Maps
+## Re-descobrint la hibridació: 1. Live view in Google Maps
 
 *Live view in Google Maps* és la definició que utilitza Google per a la nova experiència de navegació combinada amb la realitat augmentada (AR en les seves sigles en anglès).
 
@@ -34,7 +34,7 @@ El resultat final a nivell de front-end és la projecció simultània a temps re
 
 Des del punt de vista que Manovich exposa a *“Software Takes Command”* (2013), estaríem davant d’una experiència nova d’hibridació que ja parteix d’una hibridació de mitjans, com és el cas de Google Maps, a la qual s’hi afegeixen les tecnologies Visual Positioning Service (VPS), Street View, Machine Learning i la capacitat de processament en el núvol per generar la informació necessària que permet construir un nou format de mitjà i noves tècniques d’interacció fruit de combinar Google Maps i la realitat augmentada (AR).
 
-## Re-descobrint la hibridació 2: Cabify
+## Re-descobrint la hibridació: 2. Cabify
 
 Cabify és una empresa nascuda a Espanya l’any 2011 (Cabify, 2022) de *ride-sharing* que connecta usuaris amb una selecció de conductors privats a través d’una aplicació mòbil amb la finalitat de traslladar aquests usuaris des d’un punt d’origen fins a un punt de destí a canvi d’una compensació econòmica. A partir d’aquesta definició, es podria establir que el servei de Cabify tindria com a precedent el servei de transport públic de Taxi. 
 
@@ -66,6 +66,21 @@ Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibri
 
 * Raúl Álvarez. ***La nueva interfaz de Google Maps con realidad aumentada que va a cambiar la aplicación radicalmente*** [en línia]. Xataka, 12 de febrer de 2019. [data de consulta: maig 2022]. Disponible a:
 [https://www.xataka.com/aplicaciones/asi-como-navegacion-realidad-aumentada-hace-que-google-maps-sea-util](https://www.xataka.com/aplicaciones/asi-como-navegacion-realidad-aumentada-hace-que-google-maps-sea-util)
+
+VV.AA. ***Taxi*** [en línia]. Viquipèdia, 20 d’abril de 2022. [data de consulta: maig 2022]. Disponible a:
+[https://ca.wikipedia.org/wiki/Taxi](https://ca.wikipedia.org/wiki/Taxi)
+
+VV.AA. ***Compañía de red de transporte*** [en línia]. Wikipedia, 10 de desembre de 2021. [data de consulta: maig 2022]. Disponible a:
+[https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_red_de_transporte](https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_red_de_transporte)
+
+VV.AA. ***Cabify*** [en línia]. Viquipèdia, 4 d’abril de 2022. [data de consulta: maig 2022]. Disponible a:
+[https://ca.wikipedia.org/wiki/Cabify](https://ca.wikipedia.org/wiki/Cabify)
+
+***¿Cuál es la diferencia entre Cabify y un taxi?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
+[https://help.cabify.com/hc/es/articles/115001002585--Cu%C3%A1l-es-la-diferencia-entre-Cabify-y-un-taxi-](https://help.cabify.com/hc/es/articles/115001002585--Cu%C3%A1l-es-la-diferencia-entre-Cabify-y-un-taxi-)
+
+***¿Qué es Cabify?*** [en línia]. Cabify. [data de consulta: maig 2022]. Disponible a:
+[https://help.cabify.com/hc/es/articles/360021372159--Qu%C3%A9-es-Cabify-](https://help.cabify.com/hc/es/articles/360021372159--Qu%C3%A9-es-Cabify-)
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
