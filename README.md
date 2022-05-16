@@ -52,7 +52,7 @@ El resultat final a nivell de front-end és que tant usuaris com conductors disp
 
 ![Cabify Screenshots](https://github.com/mmundofe/PAC3_Manovich_Reloaded/blob/main/CabifyScreenshot.png)
 
-Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibridació de mitjans “futur” portat al terreny de les apps de serveis, en tant en quant l’app actua com a nou mitjà per representar un servei a l’ús, el de Taxi, “remediat” i de manera diferent oferint una experiència del servei completament nova. 
+Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibridació de mitjans “futur” portat al terreny de les apps de serveis, en tant en quant l’app actua com a nou mitjà per representar un servei de Taxi a l’ús, “remediat” i de manera diferent oferint una experiència del servei completament nova. 
 
 ### Referències i Bibliografia
 
