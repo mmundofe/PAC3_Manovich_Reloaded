@@ -34,7 +34,7 @@ El resultat final a nivell de front-end és la projecció simultània a temps re
 
 ![LiveView Screenshots](https://github.com/mmundofe/PAC3_Manovich_Reloaded/blob/main/LiveViewScreenshots-2.png)
 
-Des del punt de vista que Manovich exposa a *“Software Takes Command”* (2013), estaríem davant d’una experiència nova d’hibridació que ja parteix d’una hibridació de mitjans, com és el cas de Google Maps, a la qual s’hi afegeixen les tecnologies Visual Positioning Service (VPS), Street View, Machine Learning i la capacitat de processament en el núvol per generar la informació necessària que permet construir un nou format de mitjà i noves tècniques d’interacció fruit de combinar Google Maps i la realitat augmentada (AR).
+Des del punt de vista que Manovich exposa a *“Software Takes Command”* (2013), estaríem davant d’una experiència nova d’hibridació que ja parteix d’una hibridació de mitjans, com és el cas de Google Maps, a la qual s’hi afegeixen les tecnologies Visual Positioning Service (VPS), Street View, Machine Learning i la capacitat de processament en el núvol per generar la informació necessària que permet construir un nou format de mitjà i noves tècniques d’interacció fruit de combinar, a nivell de UI, Google Maps i la realitat augmentada (AR).
 
 ## Re-descobrint la hibridació: 2. Cabify
 
@@ -52,7 +52,7 @@ El resultat final a nivell de front-end és que tant usuaris com conductors disp
 
 ![Cabify Screenshots](https://github.com/mmundofe/PAC3_Manovich_Reloaded/blob/main/CabifyScreenshot.png)
 
-Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibridació de mitjans “futur” portat al terreny de les apps de serveis, en tant en quant l’app actua com a nou mitjà per representar un servei de Taxi a l’ús, “remediat” i de manera diferent oferint una experiència del servei completament nova. 
+Des del punt de vista de Manovich, l’app de Cabify podria ser un cas d’hibridació de mitjans “futur”, portat al terreny de les apps de serveis, en tant en quant l’app actua com a nou mitjà per representar un servei de Taxi a l’ús, “remediat” que ofereix una experiència del servei completament nova, i no només en el terreny digital, sino també en la fusió de la nova dimensió digital que represeta l'app i la dimensió física del servei. 
 
 ### Referències i Bibliografia
 
